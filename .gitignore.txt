@@ -1,0 +1,13 @@
+###
+
+*.rc
+*.sdf
+*.log
+*.idb
+*.pdb
+*.tlog
+*.obj
+*.manifest
+*.res
+*.lastbuildstate
+
